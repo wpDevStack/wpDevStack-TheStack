@@ -3,7 +3,7 @@
 
 # RL Technologies - wpDevStack<br>A Wordpress Development and Hosting System<br><br>The Development Stack
 
-***"This is my DevStack. There are many like it but this one is mine. My DevStack is my best friend. It is my life. I must master it as I must master my life. Without me, my DevStack is useless. Without my DevStack I am useless."- [E. Roth](@Erik-Roth)***<br><br>
+###### ***"This is my DevStack. There are many like it but this one is mine. My DevStack is my best friend. It is my life. I must master it as I must master my life. Without me, my DevStack is useless. Without my DevStack I am useless."- [E. Roth](@Erik-Roth)***<br><br>
 [badges go here]
 <hr>
 </div>
