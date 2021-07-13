@@ -1,11 +1,11 @@
-<center><b>GNU AFFERO GENERAL PUBLIC LICENSE<br>
-Version 3, 19 November 2007</b></center><br>
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-<b>Preamble</b>
+                            Preamble
 
   The GNU Affero General Public License is a free, copyleft license for
 software and other kinds of works, specifically designed to ensure
@@ -55,11 +55,10 @@ this license.
 
   The precise terms and conditions for copying, distribution and
 modification follow.
-<br><br>
 
-<b>TERMS AND CONDITIONS</b>
+                       TERMS AND CONDITIONS
 
-0. Definitions.
+  0. Definitions.
 
   "This License" refers to version 3 of the GNU Affero General Public License.
 
