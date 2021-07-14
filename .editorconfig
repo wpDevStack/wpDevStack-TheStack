@@ -1,0 +1,27 @@
+# wpDevStack an RL Technologies LLC Project
+# Copyright 2020-2021 RL Technologies LLC, Pocatello, ID, USA 
+# codeteam@wpdevstack.com  /  codeteam@rltechs.com
+#
+# File: .editorconfig
+
+# Top-Most EditorConfig File
+root = true
+
+# Basic Config For All Files
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = true
+
+# Config Overrides For Specific Files
+[*.yml]
+indent_style = space
+indent_size = 2
+
+[*.md]
+trim_trailing_whitespace = false
+
+# ***EOF***
