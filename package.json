@@ -1,0 +1,26 @@
+{
+  "name": "@wpdevstack/wpds-stack",
+  "version": "0.0.1",
+  "description": "wpDevStack server scripts",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpDevStack/wpDevStack-TheStack.git"
+  },
+  "keywords": [
+    "wp",
+    "dev"
+  ],
+  "author": "RLT",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wpDevStack/wpDevStack-TheStack/issues"
+  },
+  "homepage": "https://github.com/wpDevStack/wpDevStack-TheStack#readme"
+}
