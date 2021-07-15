@@ -8,7 +8,19 @@
 <hr>
 </div>
 
-[content goes here]
+This directory contains what we collectivly refer to as the scripts. Each file is a designated bash file that does something within the project. The scripts are each the individual required functions of wpDevStack whether you are running it in a local container (such as Multipass, or Docker, etc.), a bare meetal machine, or a VPS such as (Vultr or Digital Ocean). 
+
+The stack currently only supports [Ubuntu](@ubuntu) 20.04 LTS. This was chosen as a starting point as [Canonical](@Canonical) is a solid company with a solid track record of satbilty with the Ubuntu operating system, and because we already use it for our client hosting enviroments. Currenty only the 20.04 LTS has been used, so that version is the only one supported. That said, 18.04 LTS *should* lwork just fine but we make no gaurentees. In the future, we plan on supporting the current LTS version, as well as two version backwards compatability.<br><br> 
+
+#### **System Requirements...**
+[sysreqs]<br><br>
+
+#### **Stack Scripts...**
+[Scripts detaials go here]<br><br>
+
+#### **Installation...**
+[how to install]<br><br>
+
 
 <div align="center">
 <hr>
