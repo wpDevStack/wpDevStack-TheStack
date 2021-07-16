@@ -5,4 +5,18 @@
 
 # Verify Ubuntu and Version
 
-# Create Sudo User
+
+# Create Sudo User For Install
+# This will be the System User (Admin)
+
+
+
+
+
+
+# Collect Install info
+
+
+# Install
+
+
