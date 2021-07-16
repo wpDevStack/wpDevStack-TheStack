@@ -1,0 +1,7 @@
+Ubuntu 20.4 lTS
+
+.sh files header...
+#!/usr/bin/env bash
+# ./file-path 
+# Copyright (c) 2019-2021 RL Technologies LLC (AGPL v3.0 or Later)
+# <codeteam@wpdevstack.com>  <codeteam@rltechs.com>
