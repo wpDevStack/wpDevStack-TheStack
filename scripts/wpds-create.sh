@@ -1,20 +1,15 @@
 #!/bin/bash
-# ./scripts/wpds-setup.sh
+# ./scripts/wpds-create.sh
 # Copyright (c) 2019-2021 RL Technologies LLC (AGPL v3.0 or Later)
 # <codeteam@wpdevstack.com>  <codeteam@rltechs.com>
 
+set -a # automatically export all variables
+source .env
+set +a
 
-BBlack='\033[1;30m'       # Black
-BRed='\033[1;31m'         # Red
-BGreen='\033[1;32m'       # Green
-BYellow='\033[1;33m'      # Yellow
-BBlue='\033[1;34m'        # Blue
-BPurple='\033[1;35m'      # Purple
-BCyan='\033[1;36m'        # Cyan
-BWhite='\033[1;37m'       # White
 
-RESET='\e[0m'
-DING='\007'
+
+
 
 # Display Program Header and Copyright...
 
@@ -33,6 +28,7 @@ echo -e "\n${BCyan}Step 01: Checking for Root User...${RESET}"
 sleep 1.5
 CHECK_FOR_ROOT=$(id -un)
 if [[ "${CHECK_FOR_ROOT}" != 'root'  ]]; then
+  # Not Root? Throw and error and end
    echo -e  "\n${BRed} Error: To install wpDevStack, you must be logged in as the 'root' user! ${RESET} ${DING}"
    echo -e  "${BRed}        Now exiting the wpDevStack installer. ${RESET} \n"
    exit 1
