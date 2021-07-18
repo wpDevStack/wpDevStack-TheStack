@@ -5,6 +5,12 @@
 # File: .gitignore
 
 
+# Folders to ignore...
+# _Stuff/ - Private notes, ideas, etc.
+# pertaining to the project @Erik-Roth @RLTechs
+_Stuff/         
 
-_Stuff/
 
+
+# Specific Files to ignore
+scripts/..env.swp
