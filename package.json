@@ -21,7 +21,7 @@
     "url": "https://github.com/wpDevStack/wpDevStack-TheStack/issues"
   },
   "homepage": "https://github.com/wpDevStack/wpDevStack-TheStack#readme",
-  "main": "index.js",
+  "main": "js/setup.js",
   "directories": {
     "doc": "docs",
     "lib": "",
@@ -30,7 +30,8 @@
     "test": ""
   },
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "setup": " "
   },
   "dependencies": {},
   "devDependencies": {}
